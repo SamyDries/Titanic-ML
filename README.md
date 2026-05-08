@@ -1,13 +1,25 @@
-# 🚢 Titanic Survival Analysis
+# 🚢 Titanic Survival Analysis 
 
-![Titanic Banner](titanic_banner.png) 
-*(Ajoute ici l'image que je vais te générer)*
+## 📌 Project Overview 
+This project is part of my Machine Learning internship. The goal is to perform data preprocessing and Exploratory Data Analysis (EDA) on the famous Titanic dataset.
 
-... (ton texte d'avant) ...
 
-## 📊 Visualizations
-### Survival by Sex
-![Survival by Sex](survival_by_sex.png)
+## 🛠️ Tasks Performed 
+* **Data Cleaning:** Handled missing values (Age, Embarked) and removed unnecessary columns (Cabin, Name, Ticket).
 
-### Correlation Heatmap
-![Correlation Matrix](correlation_matrix.png)
+* **Feature Encoding:** Converted categorical data (Sex, Embarked) into numerical format.
+
+* **Data Scaling:** Applied StandardScaler to normalize Age and Fare.
+
+* **EDA:** Created visualizations to understand correlations between survival and features (Class, Sex).
+
+
+## 📊 Key Insights 
+- **Sex:** Females had a significantly higher survival rate (Correlation: 0.54).
+
+- **Pclass:** 1st class passengers had better chances of survival than 3rd class.
+-
+## 🧰 Tools 
+- Python (Pandas, Seaborn, Matplotlib, Scikit-Learn)
+- Google Colab
+- Git & GitHub
