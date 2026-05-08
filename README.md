@@ -22,7 +22,6 @@ This project is part of my Machine Learning internship. The goal is to perform d
 -
 ## 🧰 Tools 
 - Python (Pandas, Seaborn, Matplotlib, Scikit-Learn)
-  # 🚢 Titanic Survival Analysis
 
 
 ## 📊 Visualizations
