@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Analysis 
 
-## 📌 Project Overview 
+## 📌 Project Overview
 This project is part of my Machine Learning internship. The goal is to perform data preprocessing and Exploratory Data Analysis (EDA) on the famous Titanic dataset.
 
 
