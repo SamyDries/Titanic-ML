@@ -1,3 +1,4 @@
+![Titanic Banner](dataset-cover.jpg) 
 # 🚢 Titanic Survival Analysis 
 
 ## 📌 Project Overview
@@ -21,5 +22,12 @@ This project is part of my Machine Learning internship. The goal is to perform d
 -
 ## 🧰 Tools 
 - Python (Pandas, Seaborn, Matplotlib, Scikit-Learn)
-- Google Colab
-- Git & GitHub
+  # 🚢 Titanic Survival Analysis
+
+
+## 📊 Visualizations
+### Survival by Sex
+![Survival by Sex](survival_by_sex.png)
+
+### Correlation Heatmap
+![Correlation Matrix](correlation_matrix.png)
